@@ -1,0 +1,105 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.c-item{
+height:500px
+}
+.c-item img{
+    height:100%;
+    object-fit:cover;
+    filter:brightness(0.6);
+    
+
+}
+/* .c-img{
+    height:100%;
+    object-fit:cover;
+    filter:brightness(0.6);
+    
+
+} */
+.pop{
+    margin-top: 10px;
+}
+/* .c-img3{
+    height:100%;
+    object-fit:cover;
+    filter:brightness(0.6);
+    
+
+} */
+/* .carousel-caption{
+width: 60%;
+margin: auto;
+font-size: 10px;
+
+} */
+.navFont{
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    font-weight: 400; 
+    line-height: 1.5; 
+    color: #212529;
+}
+#navbarStyle ul li a:hover{
+    color: rgb(6, 161, 136); 
+  }
+body{
+    background: f1fbff;
+}
+/* #homeCard{
+    position: relative;
+    top: 137px;
+   } */
+.card img{
+    padding: 20px 20px 20px 20px;
+}
+.card{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.card-title{
+    color:#0a58ca;
+    font-family: 'Montserrat', sans-serif;
+}
+.colorFont{
+    color: rgb(6, 161, 136); 
+}
+.cardBackground{
+    background: grey;
+}
+
+/* gallery  */
+
+/* img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #20c99738;
+	padding: 80px 0;
+}
+.gallery img{
+	background-color: #ffffff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+} */
+
+.social img{
+    width: 60px;
+   
+}
+
+#homeFooter{
+    background-color:#17263c;
+    color: aliceblue;
+   
+}
