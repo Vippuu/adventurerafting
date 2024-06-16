@@ -27,7 +27,7 @@ function Popover({props}) {
           <Modal.Title><spam className="text-success">WhatsApp</spam> us for quick Booking !</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-         Phone:7251819923
+         Phone:8448071982
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
@@ -36,7 +36,7 @@ function Popover({props}) {
           <a href="#contact"  class="btn btn-info">Contact Us</a>
 
           
-          <a href="https://wa.me/919897364067?text=I%20am%20interested%20in%20Rafting%20in%20Rishikesh.%20Kindly%20share%20the%20details." 
+          <a href="https://wa.me/918448071982?text=I%20am%20interested%20in%20Rafting%20in%20Rishikesh.%20Kindly%20share%20the%20details." 
           target="_blank" class="btn btn-success">WhatsApp Us</a>
        
         </Modal.Footer>

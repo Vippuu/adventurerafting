@@ -156,9 +156,7 @@ export default function Home() {
              <div className="card-body ">
                  <h2>River Rafting in Rishikesh</h2>
                  <p className="card-text">Rishikesh, nestled in the foothills of the Himalayas, is renowned for its serene landscapes, religious significance, and a plethora of thrilling adventure activities, including bungee jumping and river rafting. Among these, white-water river rafting stands out as a must-try experience for those seeking adventure and excitement.
-
-<b>Experience the Thrill</b>
-Embarking on a river rafting expedition in Rishikesh is an exhilarating journey. You will navigate through the powerful rapids of the Ganges River, experiencing the rush of the water while surrounded by breathtaking landscapes of mountains and lush greenery. The clear waters of the Ganges provide a pristine environment for this adventure.</p>
+                 Embarking on a river rafting expedition in Rishikesh is an exhilarating journey. You will navigate through the powerful rapids of the Ganges River, experiencing the rush of the water while surrounded by breathtaking landscapes of mountains and lush greenery. The clear waters of the Ganges provide a pristine environment for this adventure.</p>
      
 
              </div>
@@ -168,9 +166,9 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
          <div className="card text-center bg-light  shadow-lg p-3 mb-5 bg-body rounded ">
              <img src="images/card2.jpg" className="card-img-top img-fluid" alt="..." />
              <div className="card-body  ">
-              <h2>Bungee Jumping Rishikesh</h2>
+              <h2>Bungee Jumping In Rishikesh</h2>
                 
-                 <p className="card-text">Grab this exciting opportunity to enjoy bungee jumping from the highest point in India. Rishikesh is one of the biggest tourist hubs in India, it is famous for its beautiful surroundings and stunning landscapes. It also has various activities and sports that you can choose from. This bungee jumping experience is one of its kind, as it allows you to jump from a height of 83 meters amidst the lush greenery of Rishikesh. Book tickets for this activity and spend a fun-filled day with your loved ones.</p>
+                 <p className="card-text">Seize the thrilling opportunity to experience bungee jumping from the highest point in India! Rishikesh, one of the premier tourist destinations in India, is renowned for its breathtaking surroundings and stunning landscapes. The city offers a plethora of activities and sports to choose from, but the bungee jumping experience stands out. Leap from a height of 83 meters, surrounded by the lush greenery of Rishikesh, for an adventure like no other. Book your tickets now and enjoy a fun-filled day with your loved ones!</p>
               
              </div>
          </div>
@@ -180,7 +178,7 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
              <img src="images/card3.jpg" className="card-img-top img-fluid" alt="..."/>
              <div className="card-body">
               <h2>Camping In Rishikesh</h2>
-                 <p className="card-text">When you are in Rishikesh, there can be no adventure more fascinating than hiking in the foothills of the Himalayas and camping on the bank of River Ganga. A perfect combination of thrilling and rejuvenating experiences, camping and hiking in Rishikesh is a matchless treat for anyone seeking a holistic healing over the weekend. River Ganga is the major attraction in Rishikesh, and camping on the white sand by its blue water stream is surely going to have a soothing effect on your senses.
+                 <p className="card-text">When in Rishikesh, there’s no adventure more captivating than hiking in the foothills of the Himalayas and camping along the banks of the River Ganga. Combining thrilling and rejuvenating experiences, camping and hiking in Rishikesh offer a unique treat for anyone seeking a holistic getaway over the weekend. The River Ganga, a major attraction in Rishikesh, provides a stunning backdrop with its blue waters and white sandy banks, ensuring a soothing effect on your senses. Don't miss out on this unparalleled experience in nature's embrace.
  </p>
 
              </div>
@@ -241,7 +239,7 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
                                                              <i className="bi bi-phone-flip"></i>
                                                         </div>
                                                         <div className="col-10 ">
-                                                            <h6 className="d-inline">Phone : <br/> <span className="text-muted">+ (123) 456-789</span></h6>
+                                                            <h6 className="d-inline">Phone : <br/> <span className="text-muted">+91 8448071982</span></h6>
                                                         </div>
                                                     </div>
                                                     <div className="row mb-2">
@@ -249,7 +247,7 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
                                                             <i className="bi bi-geo-alt"></i>
                                                         </div>
                                                         <div className="col-10">
-                                                            <h6 className="d-inline">Address :<br/> <span className="text-muted">12345 Fake ST NoWhere AB Country.</span></h6>
+                                                            <h6 className="d-inline">Address :<br/> <span className="text-muted">Tapovan Rishikesh Uttarakhand.</span></h6>
                                                         </div>
                                                     </div>
                                                     <div className="row mb-2">
@@ -257,7 +255,7 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
                                                             <i className="bi bi-envelope-at"></i>
                                                         </div>
                                                         <div className="col-10">
-                                                            <h6 className="d-inline">Email :<br/> <span className="text-muted">info@website.com</span></h6>
+                                                            <h6 className="d-inline">Email :<br/> <span className="text-muted">Vipinaswal@gmail.com</span></h6>
                                                         </div>
                                                     </div>
                                                     <div className='mt-4 ms-4'>
@@ -281,7 +279,7 @@ Embarking on a river rafting expedition in Rishikesh is an exhilarating journey.
 
 <section id='homeFooter'> 
       
-        <div className="text-center">Copyright &copy;  www.ghomi-ghomi-travellers.com. All rights reserved! <strong className="text-danger">Developed by Rohit Suyal</strong></div>
+        <div className="text-center">Copyright &copy;  www.pahadi.com. All rights reserved! <strong className="text-danger">Developed by Vipin Singh</strong></div>
     
 </section>
 
