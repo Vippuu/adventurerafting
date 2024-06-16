@@ -21,7 +21,7 @@ export default function Home() {
                                 <img src="images/1.jpg" className="d-block w-100 c-img" alt="..."/>                           
                                
                                 <div className="carousel-caption top-0 mt-4 ">
-                                    <p className='text-uppercase animate__animated animate__bounce animate__delay-1s'>Feel the adventure this summer</p>                          
+                                    <p className='text-uppercase animate__animated animate__bounce animate__delay-1s'>Feel the adventure on this summer</p>                          
                                     <h2>Rishikesh River Rafting</h2> 
                                     <Popover/>
                                 </div>                                      
@@ -91,7 +91,7 @@ export default function Home() {
          <div className="container">
               <div className='text-center my-5 animate__animated animate__bounce  animate__delay-1s' >
 
-                  <h1>Experience the  <span className='colorFont'> thrill in Rishikesh</span></h1>
+                  <h1>Discover the <span className='colorFont'>Adventure in Rishikesh</span></h1>
 
                   <hr className="w-25 m-auto"/>
 
@@ -155,7 +155,10 @@ export default function Home() {
              <img src="images/card1.jpg" className="card-img-top img-fluid" alt="..." />
              <div className="card-body ">
                  <h2>River Rafting in Rishikesh</h2>
-                 <p className="card-text">Rishikesh is famous for its serene landscapes, religious significance as well as various thrilling adventure activities like bungee jumping, river rafting, and many more. If you want to try on something adventurous and exciting, then you must not miss out on this white-water river rafting experience in Rishikesh. Gush through the sturdy rapids as well as admire breathtaking landscapes of mountains & greenery as you raft through the clear waters. The river rafting in Rishikesh takes you on a 9 km and 16 km course of adventure!</p>
+                 <p className="card-text">Rishikesh, nestled in the foothills of the Himalayas, is renowned for its serene landscapes, religious significance, and a plethora of thrilling adventure activities, including bungee jumping and river rafting. Among these, white-water river rafting stands out as a must-try experience for those seeking adventure and excitement.
+
+<b>Experience the Thrill</b>
+Embarking on a river rafting expedition in Rishikesh is an exhilarating journey. You will navigate through the powerful rapids of the Ganges River, experiencing the rush of the water while surrounded by breathtaking landscapes of mountains and lush greenery. The clear waters of the Ganges provide a pristine environment for this adventure.</p>
      
 
              </div>
